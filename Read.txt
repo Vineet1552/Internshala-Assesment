@@ -1,0 +1,4 @@
+1. first 4 answers in 01_02_03 file.
+2. 03_ques_frontend is the solution of the 3rd question basically on the server so that frontrnf api can work.
+3. inside the 01_02_03 file there is folder named as 04_ques into that 4th solution.
+5. 05_ques is the soluton of 5th question.
